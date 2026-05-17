@@ -1,47 +1,109 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "AKP Brakes",
+  "tagline": "Mobile brake service · Orange County",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Brakes done in your driveway. Same day.",
+    "subheading": "Irvine's mobile brake specialists — we come to your home, your office, your gym parking lot. Pads, rotors, calipers, fluid flush. OE-spec parts, two-year warranty.",
+    "ctaText": "Get an instant quote",
+    "ctaLink": "tel:9492290133",
+    "image": "https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "We come to you. Same day, every day.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "AKP Brakes started with one van, one technician and one idea — brake jobs shouldn't require a half-day at a shop. Five years later we run six trucks across Orange County, all certified ASE Master Brake techs.",
+      "Quote over the phone in two minutes. Tech rolls up in 90 minutes. Job takes 60–90 minutes per axle, done curbside with proper equipment. Old parts hauled away. Brake feel tested before we leave.",
+      "Parts are OE-spec ceramic pads, premium rotors, factory-grade brake fluid. Two-year, 24,000-mile workmanship warranty on every job, transferable if you sell the car."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Front Brake Pads + Rotors",
+      "description": "Ceramic pads, premium rotors, hardware kit, caliper cleaning, fluid top-up. Most sedans done in 75 minutes. Includes warranty.",
+      "price": "From $385"
+    },
+    {
+      "title": "Rear Brake Pads + Rotors",
+      "description": "Same scope as front. Sedans 75 minutes, SUVs and trucks 90. Most rear brakes wear at a different rate than front — we'll tell you straight.",
+      "price": "From $395"
+    },
+    {
+      "title": "Full 4-Wheel Service",
+      "description": "All four corners — pads, rotors, hardware, caliper service, fluid flush. Most jobs done in under three hours, on-site.",
+      "price": "From $720"
+    },
+    {
+      "title": "Brake Fluid Flush",
+      "description": "Full system flush with DOT 3/4/5.1 as spec'd by your manufacturer. Removes moisture, restores pedal feel. 30 minutes.",
+      "price": "$110"
+    },
+    {
+      "title": "Caliper Replacement",
+      "description": "Sticking caliper, leaking piston, or stripped slide pin? We carry common SKUs and can source most others same-day.",
+      "price": "From $240"
+    },
+    {
+      "title": "Emergency Same-Day",
+      "description": "Grinding noise, spongy pedal, dashboard warning? Book same-day service, we'll be there within four hours, anywhere in OC.",
+      "price": "$50 priority fee"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Brian K.",
+      "rating": 5,
+      "text": "They came out to my office in Irvine, did all four rotors and pads while I was on calls, charged less than the dealer estimate. Brake feel is better than new."
+    },
+    {
+      "name": "Tessa M.",
+      "rating": 5,
+      "text": "My SUV started grinding on the way home. Booked AKP on a Sunday at 9am, they were in my driveway by 11. Fixed in two hours. Stellar."
+    },
+    {
+      "name": "Marcus R.",
+      "rating": 5,
+      "text": "Honest quote over the phone. Tech showed me the old pads and explained what was wearing. Real ASE master, not a parts swapper. Warranty's in writing."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(949) 229-0133",
+    "email": "book@akpbrakes.com",
+    "address": "1238 Hamal, Irvine, CA 92618",
+    "mapEmbedQuery": "AKP Brakes Mobile Brake Service Irvine CA 92618",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
+      "Monday": "7 AM – 6 PM",
+      "Tuesday": "7 AM – 6 PM",
+      "Wednesday": "7 AM – 6 PM",
+      "Thursday": "7 AM – 6 PM",
+      "Friday": "7 AM – 6 PM",
+      "Saturday": "8 AM – 5 PM",
       "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    }
   },
-  "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+  "gallery": [
+    "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?w=1200&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1614200179396-2bdb77ebf81b?w=1200&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1200&q=80&auto=format&fit=crop"
+  ],
+  "social": {
+    "yelp": "https://www.yelp.com/biz/akp-autowerks-irvine-3"
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#F5C518",
+    "accentColor": "#1F2630",
+    "fontFamily": "Saira Condensed + Inter"
+  },
+  "seo": {
+    "title": "AKP Brakes — Mobile brake service in Orange County",
+    "description": "Mobile brake specialists serving Irvine and OC. Same-day curbside service, OE-spec parts, two-year warranty. Quote in two minutes.",
+    "keywords": [
+      "mobile brake service Irvine",
+      "brake repair OC",
+      "AKP Brakes",
+      "brakes Irvine",
+      "mobile mechanic Irvine",
+      "brake pads Orange County",
+      "ASE brake technician"
+    ]
   }
 }
